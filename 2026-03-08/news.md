@@ -11,21 +11,21 @@
 - **发布时间**: 2026-03-08
 - **热度**: 🔥🔥
 - **链接**: [查看原文](https://fb.edoo.gg)
-- **摘要**: Comments
+- **摘要**: Hacker News 热门讨论: FrameBook...
 
 ### 2. Notes on Writing WASM
 - **来源**: Hacker News
 - **发布时间**: 2026-03-08
 - **热度**: 🔥🔥
 - **链接**: [查看原文](https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm)
-- **摘要**: Comments
+- **摘要**: Hacker News 热门讨论: Notes on Writing WASM...
 
 ### 3. SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI
 - **来源**: Hacker News
 - **发布时间**: 2026-03-08
 - **热度**: 🔥🔥
 - **链接**: [查看原文](https://arxiv.org/abs/2603.03823)
-- **摘要**: AI Agent 领域新进展，涉及代码维护和自动化任务
+- **摘要**: Hacker News 热门讨论: SWE-CI: Evaluating Agent Capabilities in...
 
 ---
 
@@ -51,25 +51,25 @@
 - **来源**: Hacker News
 - **发布时间**: 2026-03-08
 - **链接**: [查看原文](https://fb.edoo.gg)
-- **摘要**: Comments
+- **摘要**: Hacker News 热门讨论: FrameBook...
 
 ### 2. Notes on Writing WASM
 - **来源**: Hacker News
 - **发布时间**: 2026-03-08
 - **链接**: [查看原文](https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm)
-- **摘要**: Comments
+- **摘要**: Hacker News 热门讨论: Notes on Writing WASM...
 
 ### 3. SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI
 - **来源**: Hacker News
 - **发布时间**: 2026-03-08
 - **链接**: [查看原文](https://arxiv.org/abs/2603.03823)
-- **摘要**: AI Agent 领域新进展，涉及代码维护和自动化任务
+- **摘要**: Hacker News 热门讨论: SWE-CI: Evaluating Agent Capabilities in...
 
 ### 4. CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git
 - **来源**: Hacker News
 - **发布时间**: 2026-03-08
 - **链接**: [查看原文](https://github.com/kantord/blogtato)
-- **摘要**: Comments
+- **摘要**: Hacker News 热门讨论: CLI RSS/Atom feed reader inspired by Tas...
 
 ### 5. A roadmap for AI, if anyone will listen
 - **来源**: TechCrunch
@@ -111,5 +111,5 @@
 
 ---
 
-*更新时间: 2026-03-08 23:56:20*  
+*更新时间: 2026-03-08 23:57:05*  
 *数据源: Hacker News, OpenAI Blog, MIT Tech Review, ArXiv AI, TechCrunch*
