@@ -503,6 +503,12 @@ def main():
     # 推送到 GitHub
     push_to_github(md_content, today)
     
+    # 输出新闻内容（供 cron deliver 模式推送）
+    print("\n" + "="*50)
+    print("📰 今日AI新闻摘要")
+    print("="*50)
+    print(md_content)
+    print("="*50)
     print("\n✨ 完成!")
 
 
